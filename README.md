@@ -52,7 +52,8 @@ A class containing static functions for general use in the program.
 Handles the functions for each state in the state machine by creating and removing views.
 
 <h2>Server Software Elements</h2>
-Here are all the relevant server aspects of the program:
+
+To view the Nodejs implementation of the backend for this app, see my repository Android-App-Instagram-Clone-Backend
 
 
 
